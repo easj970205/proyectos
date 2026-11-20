@@ -1,0 +1,14 @@
+RegistroEscuela - CRUD de carreras
+
+1. Inicia MySQL desde XAMPP.
+2. Si MySQL usa un puerto distinto a 3306, modifica ConnectionString en Database.vb.
+3. Ejecuta ScriptBaseDatos.sql en MySQL Workbench, o abre la aplicación y pulsa "Conectar / crear tabla".
+4. Usa Crear, Leer / seleccionar, Actualizar y Eliminar.
+5. Puedes hacer doble clic en una fila para cargarla en el formulario.
+
+Datos predeterminados:
+Servidor: localhost
+Puerto: 3306
+Usuario: root
+Contraseña: vacía
+Base de datos: Escuela
